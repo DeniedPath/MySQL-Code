@@ -1,4 +1,4 @@
-import sequelize from './db.js'; // Import the Sequelize connection
+import sequelize from './config/database.js'; // Import the Sequelize connection
 import Student from './student.js'; // Import the Student model
 
 const main = async () => {
