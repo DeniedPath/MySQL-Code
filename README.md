@@ -58,7 +58,7 @@ This project involves building an e-commerce database in MySQL, creating tables 
 
 ### 7. MySQL Sync
 
-- Create `app.mjs`
+- Create `server.js`
 - Add import from sequelize & datatype
 - Create data model
 - Test the connection
